@@ -162,6 +162,15 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "Bob",
+      "species": "Liger",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
